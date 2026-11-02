@@ -9,6 +9,7 @@ const translations = {
     whatsapp:"WhatsApp",
     call:"Appeler",
     roleOperations:"Projets et opérations",
+    roleOperationsDeputy:"Adjoint aux projets et opérations",
     roleAudit:"Vérification aux comptes",
     roleEvaluation:"Suivi et évaluation",
     roleSocial:"Affaires sociales et bénéficiaires",
